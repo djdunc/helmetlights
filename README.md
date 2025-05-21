@@ -12,8 +12,6 @@ Folders:
 
 [helmetlights23_inferencing](helmetlights23_inferencing) - download from Edge Impulse
 
-<script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
-
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pseudonomad/52696877283/in/datetaken/" title="IMG_7796"><img src="https://live.staticflickr.com/65535/52696877283_3c4ed8a0dd_c.jpg" width="100%" alt="IMG_7796"/></a>
 
 <a data-flickr-embed="true" href="https://www.flickr.com/photos/pseudonomad/52696652014/in/datetaken/" title="IMG_7795"><img src="https://live.staticflickr.com/65535/52696652014_d40745336c_c.jpg" width="100%" alt="IMG_7795"/></a>
