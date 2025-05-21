@@ -5,6 +5,7 @@ Project developed for CASA0018 DL4SN as an example of using Edge Impulse to crea
 [Edge Impulse Project](https://studio.edgeimpulse.com/studio/174083)
 
 Folders: 
+
 [nano_ble33_sense_accelerometer_continuous](nano_ble33_sense_accelerometer_continuous) - contains the arduino sketch used
 
 [nanoBLEsenseRGBW](nanoBLEsenseRGBW) - testing of lighting
