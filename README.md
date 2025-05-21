@@ -6,7 +6,9 @@ Project developed for CASA0018 DL4SN as an example of using Edge Impulse to crea
 
 Folders: 
 [nano_ble33_sense_accelerometer_continuous](nano_ble33_sense_accelerometer_continuous) - contains the arduino sketch used
+
 [nanoBLEsenseRGBW](nanoBLEsenseRGBW) - testing of lighting
+
 [helmetlights23_inferencing](helmetlights23_inferencing) - download from Edge Impulse
 
 <script async src="//embedr.flickr.com/assets/client-code.js" charset="utf-8"></script>
